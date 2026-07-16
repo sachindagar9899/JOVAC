@@ -30,4 +30,4 @@ A hands-on Vulnerability Assessment and Penetration Testing (VAPT) project perfo
 This project was conducted **only in an isolated lab environment** for educational and ethical hacking purposes.
 
 ---
-**Author:** Tarun Thakur
+**Author:** Sachin Dagar
